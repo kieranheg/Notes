@@ -28,6 +28,6 @@ See the pre-requisites in https://www.jetbrains.com/help/idea/2016.1/tutorial-te
 #### Run the Test Suite
 
 1. Re-run the last test only using `Shift+F10`.
-2. Using `Ctrl-Shift+F10` re-run _all_ the last tests.
+2. Using `Ctrl-Shift+F10` re-run _all_ the last tests in that suite.
 3. Select the JUnit test package, to run all the test suites.
 

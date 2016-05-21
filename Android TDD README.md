@@ -24,5 +24,10 @@ See the pre-requisites in https://www.jetbrains.com/help/idea/2016.1/tutorial-te
 1. The next step is to make the tests pass, which means implementing the simplest thing that works.
 2. You can navigate to the code being tested using the usual methods - clicking through on the method name, pressing `Ctrl+Alt+B` while the cursor is on the method name, or pressing `Ctrl+Shift+T` to switch between the test and the production code.
 3. Re-run the test, using `Shift+F10` to re-run the last test.
-4. Re-run all the tests, using `Ctrl-Shift+F10` to re-run the last test.
+
+#### Run the Test Suite
+
+1. Re-run the last test only using `Shift+F10`.
+2. Using `Ctrl-Shift+F10` re-run _all_ the last tests.
+3. Select the JUnit test package, to run all the test suites.
 

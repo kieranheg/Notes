@@ -18,9 +18,8 @@ by running
 
 4. In your app's top-level build.gradle file, you need to specify these libraries as dependencies:
 
-```dependencies {
-    // Required -- JUnit 4 framework
-    testCompile 'junit:junit:4.12'
-    // Optional -- Mockito framework
-    testCompile 'org.mockito:mockito-core:1.10.19'
-}```
+` dependencies {
+        testCompile: 'junit:junit:4.12'
+        testCompile: 'org.mockito:mockito-core:1.10.19'
+}`
+

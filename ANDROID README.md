@@ -7,8 +7,8 @@
 3. In your app's top-level build.gradle file, you need to specify these libraries as dependencies:
 ```
 dependencies {
-        testCompile: 'junit:junit:4.12'
-        testCompile: 'org.mockito:mockito-core:1.10.19'
+        testCompile 'junit:junit:4.12'
+        testCompile 'org.mockito:mockito-core:1.10.19'
 }
 ```
 4. To use JUnit 4 test classes, make sure to specify AndroidJUnitRunner as the default test instrumentation runner in your project by including the following setting in your app's module-level build.gradle file:

@@ -14,6 +14,18 @@ The preferred way of organizing tests is based on a convention. In your applicat
 
 ## Basic JUnit 4 TDD
 
+### Imports
+
+```
+import static org.junit.Assert.*;
+
+import org.junit.After;
+import org.junit.Before;
+import org.junit.Test;
+```
+
+### JUnit Testing
+
 #### Create a Test
 
 1. Right click on the package you want to create the test in and select `New | Java Class`.

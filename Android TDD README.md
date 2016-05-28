@@ -2,6 +2,14 @@
 
 See the pre-requisites in https://www.jetbrains.com/help/idea/2016.1/tutorial-test-driven-development.html
 
+## Android project organization for tests
+
+The preferred way of organizing tests is based on a convention. In your application project, you should use the following base folder structure for your code organization, this is also the structure the project wizard creates.
+
+`app/src/main/java` for your source code of your main application build  
+`app/src/test/java` for any unit test which can run on the JVM  
+`app/src/androidTest/java` for any test which should run on an Android device  
+
 ## Basic JUnit 4 TDD
 
 #### Create a Test

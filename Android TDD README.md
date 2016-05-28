@@ -2,6 +2,8 @@
 
 See the pre-requisites in https://www.jetbrains.com/help/idea/2016.1/tutorial-test-driven-development.html
 
+Also refer to the following tutorial http://www.vogella.com/tutorials/AndroidTesting/article.html
+
 ## Android project organization for tests
 
 The preferred way of organizing tests is based on a convention. In your application project, you should use the following base folder structure for your code organization, this is also the structure the project wizard creates.

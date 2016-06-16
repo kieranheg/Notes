@@ -53,3 +53,21 @@ import org.junit.Test;
 2. Using `Ctrl-Shift+F10` re-run _all_ the last tests in that suite.
 3. Select the JUnit test package, to run all the test suites.
 
+## Resources
+
+Use the following strtucture to access XML resources from JUnit:
+
+`src\test\java\<package-name>\<fileTest.java>`
+`src\test\resources\xml\<file.xml>`
+
+Read the file as below:
+
+```
+private static final String SMALL_STRAVA_DATA_FILE = "xml/ride1.xml";
+
+@Test
+public void testXmlHandler() throws Exception {
+    InputStream inputStream =
+        this.getClass().getClassLoader().getResourceAsStream(SMALL_STRAVA_DATA_FILE);
+```
+        

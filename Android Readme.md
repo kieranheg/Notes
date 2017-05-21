@@ -3,5 +3,5 @@
 
 Lifecycle Methods
 ---
-onCreate | onStart   | onStop  | onDestroy |
-onResume | onRestart | onPause          
+onCreate | onStart | onRestart | onResume | onPause | onStop  | onDestroy 
+            

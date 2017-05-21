@@ -1,9 +1,10 @@
 # Use min sdk API 15 - 16
 
 
-Lifecycle Methods
+# Lifecycle Methods
 ---
 onCreate | onStart | onRestart | onResume | onPause | onStop  | onDestroy 
 
+# Activity Lifecycle
 
 ![Activity Lifecycle](images/androidActivityLifecycle.png)

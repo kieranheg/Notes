@@ -4,8 +4,6 @@
 Lifecycle Methods
 ---
 onCreate | onStart | onRestart | onResume | onPause | onStop  | onDestroy 
-            
 
-![Activity Lifecycle Image]
 
-(https://github.com/kieranheg/Notes/tree/master/android/images/androidActivityLifecycle.png)
+![https://github.com/kieranheg/Notes/blob/master/android/images/androidActivityLifecycle.png]

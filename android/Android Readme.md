@@ -8,4 +8,4 @@ onCreate | onStart | onRestart | onResume | onPause | onStop  | onDestroy
 
 ![Activity Lifecycle Image]
 
-(images/androidActivityLifecycle.png)
+(https://github.com/kieranheg/Notes/tree/master/android/images/androidActivityLifecycle.png)

@@ -7,4 +7,5 @@ onCreate | onStart | onRestart | onResume | onPause | onStop  | onDestroy
             
 
 ![Activity Lifecycle Image]
-(https://github.com/kieranheg/Notes/android/images/androidActivityLifecycle.png)
+
+(images/androidActivityLifecycle.png)

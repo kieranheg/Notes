@@ -12,3 +12,7 @@ onCreate | onStart | onRestart | onResume | onPause | onStop  | onDestroy
 # Restore Activity State Lifecycle
 
 ![Restore Activity State Lifecycle](images/androidRestoreState.png)
+
+# Android Storage Options
+
+![Storage Options](images/androidStorageOptions.png)

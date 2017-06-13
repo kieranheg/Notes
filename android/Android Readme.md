@@ -17,8 +17,12 @@ onCreate | onStart | onRestart | onResume | onPause | onStop  | onDestroy
 
 ![Storage Options](images/androidStorageOptions.png)
 
-## Internal Files
+# Internal Files
 
-# Write Internal File
+## Write Internal File
 
 ![Write Internal File](images/androidWriteInternalFile.png)
+
+## Read Internal File
+
+![Read Internal File](images/androidReadInternalFile.png)

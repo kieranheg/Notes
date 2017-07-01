@@ -26,3 +26,11 @@ onCreate | onStart | onRestart | onResume | onPause | onStop  | onDestroy
 ## Read Internal File
 
 ![Read Internal File](images/androidReadInternalFile.png)
+
+## Access Internal Files
+
+### Internal Storage Path
+   ```java
+   getFilesDir()
+   ```
+   

@@ -34,3 +34,15 @@ onCreate | onStart | onRestart | onResume | onPause | onStop  | onDestroy
    getFilesDir()
    ```
    
+### Show File List
+   ```java
+   fileList()
+   ```
+
+### Delete a File
+   ```java
+   deleteFile(String fileName)
+   ```
+   
+   
+   

@@ -43,6 +43,8 @@ onCreate | onStart | onRestart | onResume | onPause | onStop  | onDestroy
    ```java
    deleteFile(String fileName)
    ```
-   
+# External Files
+
+![Write Internal File](images/androidExternalFile.png)   
    
    

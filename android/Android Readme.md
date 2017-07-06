@@ -45,6 +45,6 @@ onCreate | onStart | onRestart | onResume | onPause | onStop  | onDestroy
    ```
 # External Files
 
-![Write Internal File](images/androidExternalFile.png)   
+![External File](images/androidExternalFile.png)   
    
    
